@@ -1,0 +1,14 @@
+/Users/user/Desktop/academics/DCIT318/Assignment3/Assignment3/bin/Debug/net9.0/Assignment3
+/Users/user/Desktop/academics/DCIT318/Assignment3/Assignment3/bin/Debug/net9.0/Assignment3.deps.json
+/Users/user/Desktop/academics/DCIT318/Assignment3/Assignment3/bin/Debug/net9.0/Assignment3.runtimeconfig.json
+/Users/user/Desktop/academics/DCIT318/Assignment3/Assignment3/bin/Debug/net9.0/Assignment3.dll
+/Users/user/Desktop/academics/DCIT318/Assignment3/Assignment3/bin/Debug/net9.0/Assignment3.pdb
+/Users/user/Desktop/academics/DCIT318/Assignment3/Assignment3/obj/Debug/net9.0/Assignment3.GeneratedMSBuildEditorConfig.editorconfig
+/Users/user/Desktop/academics/DCIT318/Assignment3/Assignment3/obj/Debug/net9.0/Assignment3.AssemblyInfoInputs.cache
+/Users/user/Desktop/academics/DCIT318/Assignment3/Assignment3/obj/Debug/net9.0/Assignment3.AssemblyInfo.cs
+/Users/user/Desktop/academics/DCIT318/Assignment3/Assignment3/obj/Debug/net9.0/Assignment3.csproj.CoreCompileInputs.cache
+/Users/user/Desktop/academics/DCIT318/Assignment3/Assignment3/obj/Debug/net9.0/Assignment3.dll
+/Users/user/Desktop/academics/DCIT318/Assignment3/Assignment3/obj/Debug/net9.0/refint/Assignment3.dll
+/Users/user/Desktop/academics/DCIT318/Assignment3/Assignment3/obj/Debug/net9.0/Assignment3.pdb
+/Users/user/Desktop/academics/DCIT318/Assignment3/Assignment3/obj/Debug/net9.0/Assignment3.genruntimeconfig.cache
+/Users/user/Desktop/academics/DCIT318/Assignment3/Assignment3/obj/Debug/net9.0/ref/Assignment3.dll
