@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/user/Desktop/academics/DCIT318/Assignment3/Assignment3/Assignment3.csproj",
+      "projectUniqueName": "/Users/user/Desktop/academics/DCIT318/dcit318-assignment3-11252709/Assignment3/Assignment3.csproj",
       "projectName": "Assignment3",
-      "projectPath": "/Users/user/Desktop/academics/DCIT318/Assignment3/Assignment3/Assignment3.csproj",
+      "projectPath": "/Users/user/Desktop/academics/DCIT318/dcit318-assignment3-11252709/Assignment3/Assignment3.csproj",
       "packagesPath": "/Users/user/.nuget/packages/",
-      "outputPath": "/Users/user/Desktop/academics/DCIT318/Assignment3/Assignment3/obj/",
+      "outputPath": "/Users/user/Desktop/academics/DCIT318/dcit318-assignment3-11252709/Assignment3/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/user/.nuget/NuGet/NuGet.Config"
